@@ -1,0 +1,30 @@
+
+Project Title: Sales Data Analysis Using Advanced SQL Window Functions
+
+Overview:
+This project demonstrates the use of advanced SQL window functions and analytical techniques applied to a comprehensive sales dataset. 
+It simulates real-world business reporting and analysis scenarios such as performance tracking, regional comparisons, running totals, 
+moving averages, sales rankings, and detecting trends or outliers.
+
+Skills Demonstrated:
+- Advanced SQL Window Functions: ROW_NUMBER, RANK, DENSE_RANK, NTILE, PERCENT_RANK, CUME_DIST
+- Time-based analysis: Running Totals, Moving Averages, Cumulative Sums
+- Trend detection, performance segmentation, outlier identification
+- Full-table analysis without PARTITION BY
+- Analytical queries with CASE statements, formatting, and conditional thresholds
+
+Key Highlights:
+1. Calculate moving averages and cumulative metrics over time.
+2. Rank products and sales within and across regions.
+3. Track quarterly performance trends and compare current to previous periods.
+4. Identify top and bottom performers using percentiles and cumulative distribution.
+5. Detect sharp drops in product sales using statistical thresholds.
+6. Evaluate overall contribution of each sale to total revenue using percent-of-total logic.
+
+File Descriptions:
+- Sales_Data_Analysis_Using_Advanced_SQL_Vijay.sql: All SQL scripts and queries structured by topic with inline comments.
+- Project_Description.txt: Full description to be used in your portfolio or GitHub.
+
+Ideal For:
+Clients needing deep SQL analysis for dashboards, sales tracking, marketing performance, or automated business insights.
+

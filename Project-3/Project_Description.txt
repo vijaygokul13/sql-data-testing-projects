@@ -1,0 +1,27 @@
+
+Project Title: Travel Data Insights Using SQL Window Functions
+
+Overview:
+This project showcases practical and advanced SQL techniques using a dataset of travel routes between major Indian cities. 
+The goal is to extract business insights, clean duplicate data, and demonstrate SQL features like window functions, ranking, and recursive CTEs.
+
+Skills Demonstrated:
+- SQL Window Functions: ROW_NUMBER, RANK, LEAD, LAG, NTILE
+- Recursive CTEs for indirect route discovery
+- Data cleaning using ROW_NUMBER
+- Route ranking and trend analysis
+- Conditional logic using CASE and ISNULL
+
+Key Highlights:
+1. Identify one-way and round-trip routes.
+2. Rank travel routes per city by distance.
+3. Detect distance trends (Increasing/Decreasing/Flat).
+4. Use recursive CTE to find all paths from Delhi.
+5. Remove duplicate travel records.
+
+File Descriptions:
+- Travel_Route_Insights_SQL_Window_Functions_Vijay.sql: Full SQL code with explanatory comments.
+- Project_Description.txt: Overview of the project and key concepts used.
+
+Ideal For:
+Clients seeking support with SQL-based data analysis, ETL logic, reporting, or backend database insights.

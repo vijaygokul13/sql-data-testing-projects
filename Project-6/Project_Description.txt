@@ -1,0 +1,33 @@
+Project Title: Travel Route Analysis Using Recursive SQL & Path-Finding Logic
+
+Overview:
+This project demonstrates complex SQL logic using **recursive CTEs** to model and explore travel routes across Indian cities. It solves real-world challenges like round trip detection, shortest/longest path computation, dynamic route generation, and filtering by distance or hops.
+
+You simulate a transport or logistics system using realistic travel and city data, and implement recursive queries to explore all valid paths between cities — including multi-hop journeys and loops.
+
+Skills Demonstrated:
+- Recursive CTEs with UNION ALL
+- Cycle detection and loop prevention in travel paths
+- Round-trip identification from any city
+- Path tracing with level and distance counters
+- Dynamic path filters (max distance, max hops)
+- Parameterized route search with start and end cities
+- Performance optimization with indexing and reduced recursion
+- Custom metrics like shortest/longest round trips
+
+Key Highlights:
+1. Generate all travel paths from Agra using recursion.
+2. Show shortest and longest paths between cities.
+3. Detect valid round trips from a city without visiting the same city twice.
+4. Allow dynamic source/destination parameters.
+5. Use `MAXRECURSION` to control performance.
+6. Find top-N round trips within a distance/hop constraint.
+7. Detect loops (non-returning to start) for advanced scenarios.
+8. Apply indexes for optimizing route discovery queries.
+
+Ideal For:
+Clients in transportation, delivery routing, or travel tech needing custom SQL logic for routing, optimization, and reporting.
+
+Bonus:
+Includes index suggestions and query structuring techniques for scaling recursive logic in production.
+

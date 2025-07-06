@@ -1,0 +1,27 @@
+Project Title: Advanced SQL Joins for HR & Project Management Data Analysis
+
+Overview:
+This project demonstrates complex SQL query design using non-recursive JOIN operations over a rich HR + Project dataset. It replicates real-world business queries for project tracking, employee assignment, department collaboration, and manager-location relationships.
+
+The project explores one-to-many, many-to-many, and self-joins across multiple realistic tables such as employees, departments, projects, and employee_projects.
+
+Skills Demonstrated:
+- INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN
+- JOINs across multiple tables (e.g., employee → project → department)
+- Department-level performance and salary insights
+- Manager-employee and department-location relationships
+- CROSS-department collaboration and shared project logic
+- Grouping, filtering, aggregate functions with JOINs
+- Window functions like ROW_NUMBER and RANK (for top performers or recent projects)
+
+Key Highlights:
+1. Find top-N employees per department by salary and project duration.
+2. Identify employees who have worked on projects across multiple departments or years.
+3. Build collaboration maps: who worked with whom on how many projects.
+4. Show complete employee info with department, manager, and location using LEFT JOINs.
+5. Generate project and department reports even for unassigned resources.
+6. Capture performance distribution, shared project counts, employee-manager hierarchy.
+
+Ideal For:
+Clients in HR tech, enterprise reporting, or project management seeking SQL experts to build dashboards, reports, or internal systems using JOIN-based data modeling.
+

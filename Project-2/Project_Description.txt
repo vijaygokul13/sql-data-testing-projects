@@ -1,0 +1,29 @@
+
+Project Title: Subqueries and APPLY Operator - SQL Practice on E-Commerce Sales
+
+Overview:
+This project showcases your deep understanding of subqueries, CROSS APPLY/OUTER APPLY, and analytic window functions through a practical and comprehensive e-commerce dataset. 
+You explore various product categories and sales patterns across multiple countries and regions using structured SQL challenges.
+
+Skills Demonstrated:
+- Correlated and non-correlated subqueries (in SELECT, FROM, and WHERE clauses)
+- `CROSS APPLY` and `OUTER APPLY` for row-wise dynamic subquery execution
+- Window functions like `RANK`, `ROW_NUMBER`, and `SUM` with and without partitions
+- Conditional logic using `CASE`, filtering with `IN`, `EXISTS`, and aggregations
+- Joining master and transactional data to derive insights
+
+Key Highlights:
+1. Compare subqueries vs joins to evaluate performance and logic clarity.
+2. Use APPLY operator to fetch latest/highest sale for each product or region.
+3. Track contribution of each product to total global sales.
+4. Identify top-selling products per category or region.
+5. Dynamic filtering based on aggregate metrics like average sales or sales count.
+6. Extend schema design by adding `product_master` and `product_categories` tables.
+
+File Descriptions:
+- Subqueries_and_APPLY_SQL_Exercises_Vijay.sql: Full SQL script with progressive challenges and business logic.
+- Project_Description.txt: Summary suitable for Upwork or GitHub display.
+
+Ideal For:
+Clients needing strong SQL professionals for advanced reporting, performance-driven subquery logic, or custom analytics over sales data.
+
