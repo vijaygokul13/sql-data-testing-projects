@@ -1,0 +1,27 @@
+Project Title: 
+Advanced Analytics Using SQL Window Functions
+
+Overview:
+This project demonstrates the power of SQL window functions for advanced analytics and business insights. It goes beyond basic ranking to solve real-world challenges involving normalization, trend analysis, contribution tracking, and conditional logic.
+
+Using a rich sales and customer dataset, the project implements performance segmentation, rolling averages, loyalty labeling, and contribution breakdowns — making it ideal for data analysts, reporting developers, and dashboard teams.
+
+Skills Demonstrated:
+- Z-Score Normalization using AVG and STDEV with CROSS JOIN
+- 3-record moving average with ROWS BETWEEN in OVER()
+- Contribution % of product sales to region totals using nested aggregates
+- Conditional ranking using CASE inside RANK()
+- Labeling top customers per region with custom tags using RANK + CASE
+- Time-based trend smoothing and categorical filtering
+- Composite metrics and smart formatting
+
+Key Highlights:
+1. Standardize customer loyalty scores using statistical methods.
+2. Smooth sales data trends using 3-row moving averages.
+3. Show % contribution of each product to regional monthly totals.
+4. Rank and label top 3 loyal customers in every region.
+5. Apply category-based ranking logic using CASE inside window functions.
+6. Use formatted and flattened outputs suitable for business dashboards.
+
+Ideal For:
+Clients looking for SQL-based solutions for analytics, dashboards, customer segmentation, trend tracking, and marketing insight generation.

@@ -1,0 +1,27 @@
+Project Title: 
+Sales Analytics Using SQL Set Operators (UNION, INTERSECT, EXCEPT)
+
+Overview:
+This project showcases a wide range of practical data analytics scenarios solved using SQL Set Operators. Using a rich sales and product dataset, the queries demonstrate how to extract business insights, detect changes across time periods, compare targets vs actuals, and identify data gaps.
+
+Skills Demonstrated:
+- SQL Set Operators: UNION, INTERSECT, EXCEPT
+- Temporal Comparisons: Year-over-year, monthly, historical gaps
+- Duplicate vs Unique product identification
+- Region-wise product/category analysis
+- Salesperson handoff and reassignment tracking
+- Actual vs Target sales matching
+- Data quality auditing and performance evaluation
+
+Key Highlights:
+1. Find products with no sales.
+2. Compare sales between 2023 and 2024.
+3. Detect dropped product categories by region.
+4. Identify when a new salesperson took over a product.
+5. Flag months where targets existed but no sales were made.
+6. Compare loyalty programs across years.
+7. Use INTERSECT to detect common customers/salespersons.
+8. Use EXCEPT to identify missing or excluded values.
+
+Ideal For:
+Clients seeking SQL-driven analytics solutions, BI dashboards, reporting workflows, or insights over structured sales or customer data. This project shows logic clarity and powerful use of set-based SQL.

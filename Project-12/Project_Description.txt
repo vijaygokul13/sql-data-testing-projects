@@ -1,0 +1,32 @@
+Project Title: Data Transformation & Cleaning in SQL for Reporting and Analytics
+
+Overview:
+This project demonstrates advanced SQL capabilities in data formatting, cleaning, string manipulation, and transformation — key to building clean dashboards, analytics reports, and user-friendly data pipelines.
+
+The challenges reflect real-world issues in customer, product, and sales datasets — like messy text, missing values, inconsistent formats, and semi-structured fields.
+
+Skills Demonstrated:
+- Data Type Conversion using CAST, CONVERT, TRY_CAST
+- NULL Handling with ISNULL, COALESCE, and CASE
+- Text Standardization: UPPER, LOWER, Title Case
+- Pattern Matching with LIKE and PATINDEX
+- Date Calculations: DATEDIFF, GETDATE, Date Bucketing
+- Formatting Currency and Percentages
+- Delimited String Parsing: STRING_SPLIT, STRING_AGG
+- Custom Tags Analysis
+- Clean Report Output Design
+- Phone number normalization and CSV transformation
+- Preparing export-ready, dashboard-safe reporting datasets
+
+Key Highlights:
+1. Format purchase values into clean currencies (₹, $, €).
+2. Clean up dirty text fields using REPLACE, TRIM, LTRIM/RTRIM.
+3. Split and normalize CSV fields into clean tags for filtering.
+4. Calculate customer tenure and loyalty segments.
+5. Generate user-friendly exports with formatted strings.
+6. Flatten price history into readable rows for audit trail.
+7. Build full customer profile output with transformed, cleaned fields.
+
+Ideal For:
+Clients needing SQL-based reporting, ETL transformation, or dashboard-ready datasets. Perfect for BI projects, marketing reports, and customer data cleanup.
+

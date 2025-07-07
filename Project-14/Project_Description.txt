@@ -1,0 +1,25 @@
+Project Title: 
+SQL Stored Procedures and Functions for Business Reporting & Automation
+
+Overview:
+This project demonstrates your ability to design robust and modular SQL logic using stored procedures, scalar functions, and table-valued functions (TVFs). Built on top of a realistic sales and customer dataset, the challenges simulate common reporting, lookup, error-handling, and performance tracking scenarios.
+
+Skills Demonstrated:
+- Stored Procedures with input/output parameters
+- Conditional business logic with CASE and error handling
+- Scalar Functions for loyalty scoring, discount classification, customer tiers
+- Table-Valued Functions for filtering, ranking, and regional product analysis
+- TRY...CATCH for runtime error handling (division by zero, invalid conversions)
+- Nested error logging using custom log tables
+- Clean procedure-based automation for reporting and decision support
+
+Key Highlights:
+1. Procedures to get customer, product, region summaries using output params.
+2. Scalar functions to categorize customers by loyalty and purchase profile.
+3. Table-valued functions to filter and return top-N products by sales.
+4. Error-safe procedures using TRY...CATCH for division by zero and invalid input.
+5. Logging framework to capture and store runtime issues in a custom error table.
+6. Simulation of real business scenarios like promotions, loyalty programs, and region-wise performance tracking.
+
+Ideal For:
+Clients looking to automate reporting, encapsulate SQL logic into reusable procedures, build dashboards, or implement rule-based analytics in their data pipelines.

@@ -1,0 +1,31 @@
+Project Title: Employee & Performance Analytics Using SQL CTEs and Recursion
+
+Overview:
+This project demonstrates a wide range of SQL Common Table Expressions (CTEs) — from basic aggregation and filtering to complex recursive logic for hierarchy modeling, advanced ranking, and organizational reporting.
+
+It uses a comprehensive HR and project dataset to simulate real-world analytics and dashboards commonly seen in enterprise environments.
+
+Skills Demonstrated:
+- Basic and Multi-level CTEs
+- Recursive CTEs for hierarchy, reporting chains, and tree flattening
+- Aggregation logic: average, count, sum, group by
+- Department-level metrics and headcounts
+- Performance scoring and grade assignment
+- Statistical outlier detection using standard deviation
+- Team size computation using recursion
+- Employee-project assignments and recency analysis
+- Age and birthday tracking using computed fields
+
+Key Highlights:
+1. Use of multiple CTEs to separate logic cleanly.
+2. Build and flatten employee-manager hierarchies with recursion.
+3. Identify top performers using rank functions inside CTEs.
+4. Assign grades (A/B/C) based on performance thresholds.
+5. Track upcoming birthdays using CTE + date functions.
+6. Calculate total team size reporting to each manager using recursion.
+7. Analyze project workload and detect outliers by department.
+8. Join CTE results with core HR tables for meaningful insights.
+
+Ideal For:
+Clients needing structured SQL reports, data pipeline logic, or organizational analytics using advanced SQL CTE techniques — including dashboards, HR tools, and enterprise data transformation logic.
+

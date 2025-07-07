@@ -1,0 +1,30 @@
+Project Title: Sales Data Aggregation & Reporting Using SQL Grouping Techniques
+
+Overview:
+This project demonstrates expert-level SQL proficiency in data aggregation, reporting, and business summary generation. Using a realistic sales dataset, the project solves real-world problems related to sales performance, regional comparisons, trend tracking, and top-seller identification.
+
+It showcases mastery over `GROUP BY`, `ROLLUP`, `CUBE`, and `GROUPING SETS`, as well as modern reporting patterns using window functions, conditional labels, CTEs, and percent-based calculations.
+
+Skills Demonstrated:
+- SQL Aggregation: SUM, AVG, MIN, MAX, COUNT
+- Grouping Extensions: ROLLUP, CUBE, GROUPING SETS
+- Dynamic Subtotals, Grand Totals, and Conditional Labels
+- Monthly & Yearly Time Series Reporting
+- Regional and Product-wise Performance Analysis
+- Top/Bottom N Queries Using Ranking
+- CTEs and JOINs for contribution analysis
+- Percent-of-total calculations and formatting
+- Most diverse seller and salesperson contribution analytics
+
+Key Highlights:
+1. Track total, average, and highest/lowest sales with basic aggregations.
+2. Compare sales across products, regions, and time (month/year).
+3. Use `GROUPING SETS` and `ROLLUP` to generate subtotals and grand totals.
+4. Replace `NULL` values in grouped results with meaningful labels like “All Products” and “Grand Total”.
+5. Identify top-performing products and salespersons within each region.
+6. Calculate % contribution of products and people to regional revenue using both CTEs and window functions.
+7. Deliver detailed and high-level summaries ideal for business dashboards.
+
+Ideal For:
+Clients needing SQL support for BI dashboards, sales reporting, financial summaries, or data warehouse reporting logic.
+

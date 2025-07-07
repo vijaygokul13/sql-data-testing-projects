@@ -1,0 +1,35 @@
+Project Title: 
+Advanced Real-World SQL Challenges Using CTEs, Recursion & Analytics
+
+Overview:
+This project showcases 24 advanced SQL challenges based on real-world business scenarios — covering employee productivity, HR analytics, project management, diversity metrics, performance scoring, and recursive reporting structures.
+
+Every challenge is built around clean SQL logic using Common Table Expressions (CTEs), with a focus on modularity, performance, and clarity.
+
+Skills Demonstrated:
+- Modular Query Design using CTEs
+- Recursive CTEs for employee hierarchy and department structure
+- Composite KPI calculation using normalization
+- Salary, bonus, and performance benchmarking
+- Multi-level reporting chains (for employees and departments)
+- Project allocation analysis and imbalance detection
+- Gender diversity, stagnant employees, ghost employee tracking
+- Outlier detection using statistical metrics (STDDEV, Deviation)
+- Department ranking using DENSE_RANK
+- Continuous trends and cumulative hiring metrics
+- Managerial effectiveness evaluation
+- NULL-safe calculations and ISNULL/COALESCE usage
+
+Key Highlights:
+1. Identify underutilized or overloaded employees.
+2. Calculate manager effectiveness grades using team metrics.
+3. Detect salary growth opportunities for high-performing but underpaid employees.
+4. Build full multi-level reporting chains using recursion.
+5. Analyze project involvement gaps over time.
+6. Rank employees based on normalized composite KPIs.
+7. Track gender diversity department-wise.
+8. Build department and employee hierarchies dynamically.
+
+Ideal For:
+Clients looking for deep SQL solutions in HRTech, Analytics, Enterprise Dashboards, Workforce Management, ETL Development, or Business Intelligence.
+

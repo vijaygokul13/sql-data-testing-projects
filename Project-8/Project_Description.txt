@@ -1,0 +1,28 @@
+Project Title: Sales Analytics Using SQL CASE Statements and Conditional Logic
+
+Overview:
+This project showcases advanced use of SQL CASE statements in real-world business reporting scenarios, applied on a comprehensive sales dataset. From classification and binning to performance scoring and bonus calculations, this project simulates problems commonly faced in dashboards, business rules, and KPI logic implementation.
+
+Skills Demonstrated:
+- CASE in SELECT, ORDER BY, WHERE, and JOIN clauses
+- Conditional value labeling (High/Medium/Low Sales)
+- Custom product categorization using multi-level CASE
+- Bonus calculation and adjusted sale value using math + CASE
+- Target vs actual performance analysis using conditional joins
+- Use of `FORMAT`, `ISNULL`, `COALESCE`, and nesting
+- Classification and ranking logic for product and salesperson
+- Efficient CASE logic reuse with CTEs for performance tuning
+
+Key Highlights:
+1. Classify sales as High, Medium, or Low based on amount.
+2. Map products into broader categories like Electronics, Furniture, Accessories.
+3. Rank salespeople based on regional sales and average performance.
+4. Evaluate whether each salesperson met, missed, or exceeded monthly sales targets.
+5. Calculate bonus-adjusted sale value using multiple CASE layers.
+6. Apply performance labels to products and employees.
+7. Use `CASE + JOIN` to compare actuals with targets and handle NULLs gracefully.
+8. Add custom sorting and ranking based on business-defined priority.
+
+Ideal For:
+Clients who need business logic implementation, reporting automation, or performance evaluation using SQL CASE logic in dashboards, ETL pipelines, or analytics queries.
+
